@@ -1,0 +1,26 @@
+#loginPane{
+	height: 100%;
+	width: 500px;
+	background-color: #e1e3e4;
+	margin-top: 175px;
+	margin-left: 435px;
+	padding-right: 20px;
+	border-radius: 10px;
+}
+#loginHead{
+	margin-left: 215px;
+	padding-top: 5px;
+}
+#labelUid,#labelPass{
+	margin-top: 3px;
+	font-size: 1.5em;
+}
+#loginForm{
+	padding-top: 20px;
+}
+#passBox,#submitBox{
+	margin-top: 10px;
+}
+#userIdErr,#passwordErr{
+	color: red;
+}

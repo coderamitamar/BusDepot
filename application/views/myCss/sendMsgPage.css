@@ -1,0 +1,15 @@
+#sendMsgPageMainHeader{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 10px;
+	background-color: #b9a97c;
+}
+#sendMsgServiceContainer{
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#empIdErr,#notificationErr{
+	color: red;
+}

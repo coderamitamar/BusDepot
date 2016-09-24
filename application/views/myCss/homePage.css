@@ -1,0 +1,96 @@
+#homeMainHeader{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 10px;
+	background-color: #b9a97c;
+}
+#homeMainHeader h2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#homeMainBox{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	padding-right: 0px;
+}
+#homePageGeneralBox{
+	padding-bottom: 5px;
+	padding-left: 1px;
+	margin-top: 5px;
+}
+#homePageCalendarBox{
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-top: 5px;
+	font-size: 1.5em;
+}
+#homePageNotificationBox{
+	padding-left: 20px;
+}
+.authorCard{
+	margin-left: 15px;
+	margin-top: 5px;
+	background-color: #0087cb;
+}
+.authorCard h6{
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+.authorCard p{
+	padding-bottom: 0px;
+	margin-bottom: 5px;
+}
+.notificationCard{
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+.notificationTimeCard{
+	margin-top: 5px;
+	background-color: #8b5499;
+	color: white;
+}
+.notificationTimeCard p{
+	margin-bottom: 5px;
+}
+#birthdayListBox{
+	margin-top: 10px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+#birthdayList{
+	height: 140px;
+	overflow: auto;
+}
+.birthdayCard{
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	background-color: #8b5499;
+}
+.birthdayCard a{
+	color: white;
+	margin-top: 5px;
+}
+.birthdayCard a h6,.birthdayCard a p{
+	margin-top: 3px;
+	margin-bottom: 2px;
+}
+.birthdayCard a:link{
+	text-decoration: none;
+}
+#birthdayWishMsgBox{
+	margin-top: 100px;
+}
+#birthdayWishMsgBoxHeader{
+	background-color: #009688;
+}

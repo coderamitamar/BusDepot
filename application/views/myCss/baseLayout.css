@@ -1,0 +1,66 @@
+html,body{
+	height: 100%;
+	background-color: #bfaf80;
+}
+#mainContainer{
+	height: 100%;
+	width: 100%;
+}
+#headStrip{
+	background-color: #690000;
+}
+#headStrip h2{
+	margin-left: 60px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: white;
+}
+#userNameLabel{
+	padding-right: 20px;
+	color: white;
+}
+#logoutLabelBox{
+	margin-top: 10px;
+}
+#logoutLabel{
+	color: white;
+}
+#subContainer{
+	margin-top: 0px;
+}
+#mainSidebar{
+	height: 100%;
+	padding-left: 30px;
+}
+#mainSidebar li{
+	font-size: 1.5em;
+	color: white;
+	background-color: #0087cb;
+	border-radius: 0px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-left: 5px;
+	list-style-type: none;
+	padding-left: 10px;
+}
+#mainSidebar a:link{
+	text-decoration: none;
+}
+#empTypeSubMenu li,#serviceTypeSubMenu li{
+	font-size: 1.5em;
+	color: white;
+	background-color: #0087cb;
+	border-radius: 0px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-left: 15px;
+	list-style-type: none;
+	padding-left: 20px;
+}
+#mainPane{
+	background-color: #e1e3e4;
+	height:auto;
+	min-height:650px;
+	height:auto !important;        /* for IE as it does not support min-height */
+	height:650px;
+}
